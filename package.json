@@ -1,0 +1,19 @@
+{
+  "name": "jinmeiyo-kanji",
+  "version": "0.1.0",
+  "description": "List of jinmeiyō kanji",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesknelson/node-joyo-kanji.git"
+  },
+  "keywords": [
+    "jinmei",
+    "name",
+    "kanji",
+    "japanese",
+    "linguistics"
+  ],
+  "author": "aknm21",
+  "license": "MIT"
+}
